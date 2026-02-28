@@ -1,4 +1,4 @@
-package secondlargestnumber;
+package VechileAbstractclassexample;
 
 public class SecondLargestNumber {
     int a[] = {12, 2, 3, 4, 5, 6,7, 10};
@@ -24,7 +24,7 @@ public class SecondLargestNumber {
      }
 
     public static void main(String[] args) {
-      VechileAbstractclassexample.SecondLargestNumber Obj = new VechileAbstractclassexample.SecondLargestNumber();
+      SecondLargestNumber Obj = new SecondLargestNumber();
       Obj.findsecondLargestnumber();
       System.out.println(Obj.findsecondLargestnumber());
     }
