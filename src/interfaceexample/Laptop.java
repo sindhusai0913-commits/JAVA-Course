@@ -1,4 +1,4 @@
-package interfaceexample;
+
 
 public interface Laptop {
 
